@@ -1,6 +1,10 @@
 # Horiseon Home Page 🔍
 
-Welcome to the Horiseon home page! See a quick summary of the changes made below . . .
+Welcome to the Horiseon home page repo! Visit the page here: https://johnnyboy7781.github.io/horiseon/. 
+
+![Screenshot](./Screenshot.png)
+
+See a quick summary of the changes made below . . .
 
 ## Changes Made 🛠:
 - Changed div tags to semantic tags for accesibility and SEO
